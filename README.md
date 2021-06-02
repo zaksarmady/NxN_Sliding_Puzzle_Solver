@@ -23,7 +23,6 @@ For example:
 3x3
 5 3 6 1 7 8 4 2 0
 1 2 3 4 5 6 7 8 0
-
 ``` 	
 The program is run through a command line interface. Below is an example of how to run it:
 ``` <filename> <Search Type> ``` 
